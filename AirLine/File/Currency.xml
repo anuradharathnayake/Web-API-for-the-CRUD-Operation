@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<catalog>
+  <data id="bk101">
+    <CurrencyId>1</CurrencyId>
+    <Name>Dollar</Name>
+    <Country>USA</Country>
+    <Value>152</Value>
+  </data>
+  <data id="bk102">
+    <CurrencyId>2</CurrencyId>
+    <Name>India</Name>
+    <Country>Rupess</Country>
+    <Value>2</Value>
+  </data>
+ <data id="bk102">
+    <CurrencyId>3</CurrencyId>
+    <Name>UK</Name>
+    <Country>Ponund</Country>
+    <Value>200</Value>
+  </data>
+<data id="bk102">
+    <CurrencyId>4</CurrencyId>
+    <Name>Singapore</Name>
+    <Country>Dollar</Country>
+    <Value>100</Value>
+  </data>
+</catalog>
